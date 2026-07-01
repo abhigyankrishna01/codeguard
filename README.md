@@ -1,6 +1,6 @@
 # CodeGuard – Automated Code Review Tool
 
-CodeGuard is a lightweight developer tool designed to analyze source code and detect potential issues or bad coding practices.
+CodeGuard is a lightweight developer tool designed to analyze source code and detect potential issues or bad coding practices. In short it helps you fix bugs
 
 The project demonstrates the concept of automated code quality analysis.
 ---
